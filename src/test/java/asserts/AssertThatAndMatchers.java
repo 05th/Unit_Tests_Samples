@@ -1,3 +1,5 @@
+package asserts;
+
 import org.junit.Test;
 import org.hamcrest.MatcherAssert;
 
