@@ -7,3 +7,4 @@
 * AssertNotEquals
 * AssertThat
 * Matchers
+* Parameterized Tests
