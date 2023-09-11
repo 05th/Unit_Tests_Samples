@@ -28,6 +28,8 @@ public class CalculatorParameterizedTest {
         return new Object[][]{
                 {1, 9, 10},
                 {1, 0, 1},
+                {0, 0, 0},
+                {-5, 1, -4},
         };
     }
 
